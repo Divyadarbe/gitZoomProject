@@ -8,7 +8,7 @@ class Login extends Component{
         }
         return(
             <div className="App" align="center">
-                <h1> Login with Githun</h1>
+                <h1> Login with Github</h1>
                 <GitHubLogin clientId="bbbc69cb0307be6ce509" onSuccess={onSuccessGitHub} buttonText="Login with github" className="git-login" valid="true"
                 redirectUri="e9d5a2d0e4f9ce4daf5b5c5b8aaeaa56fe4f52e1" />
             </div>
