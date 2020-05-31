@@ -3,11 +3,15 @@
 </p>
 
 <h3>Packages installed are:
-1. npm install react-github-login 
-2. npm install axios
-3. npm install react-router-dom
+  <ol>
+    <li> npm install react-github-login </li>
+    <li> npm install axios</li>
+    <li> npm install react-router-dom</li>
+    </ol>
 </h3>
 
-<p>1. src/Components/Login.js : contains the code for displaying github login button and onclicking it redirects to github login page.
-2. src/Components/RepoList.js : contains the code for displaying information of top 10 repositories
+<p><ol><li> src/Components/Login.js : contains the code for displaying github login button and onclicking it redirects to github login page.</li>
+<li> src/Components/RepoList.js : contains the code for displaying information of top 10 repositories</li>
+  <li>Screenshots : contains screenshots of application</li>
+  </ol>
 </p>
