@@ -15,3 +15,7 @@
   <li>Screenshots : contains screenshots of application</li>
   </ol>
 </p>
+<p>
+<ul><li>localhost:3000/ : displays Login page </li><li>localhost:3000/repo : displays top 10 repo information</li></ul>
+</p>
+<h4>npm start : to run the application</h4
